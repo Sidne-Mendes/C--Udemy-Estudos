@@ -33,9 +33,8 @@ int main()
 	{
 		cout << "verdadeiro";
 	}
-
-	return 0;
-
+	
+	
 	if (!(num % 2 == 0))
 	{
 		cout << "verdadeiro!";
@@ -53,5 +52,8 @@ int main()
 	if (!var){
 		cout << "Falso";
 	}
+	
+	return 0;
+
 	
 }
